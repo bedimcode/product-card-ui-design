@@ -114,6 +114,7 @@ img {
   transition: .5s;
 }
 
+/* Hover card effect */
 .card:hover .card__img {
   transform: translate(-1.5rem, -9.5rem) rotate(-20deg);
 }
